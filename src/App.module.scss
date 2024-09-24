@@ -1,0 +1,4 @@
+.test{
+    $secondary: rgb(250, 200, 100);
+    background-color: utilities.bulmaFindColorInvert( $secondary);
+}
